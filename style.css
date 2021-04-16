@@ -24,5 +24,9 @@ nav ~ a{
 
 figcaption{
 
-  font-size: shrink;
+  font-size: small;
+}
+
+#featured-property ~ p{
+  width: 800px;
 }
