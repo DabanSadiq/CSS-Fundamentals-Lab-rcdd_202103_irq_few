@@ -19,4 +19,10 @@ nav{
 nav ~ a{
   padding-left:  10px;
     padding-right:  10px;
+    background: red;
+}
+
+figcaption{
+
+  font-size: shrink;
 }
